@@ -1,0 +1,51 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.b-color {
+    background-color: antiquewhite;
+    font-size: 18px;
+}
+
+.hire-me {
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-weight: 600;
+}
+
+.h-color {
+    color: blue;
+
+}
+
+p {
+    font-size: 15px;
+}
+
+section {
+    display: flex;
+
+
+}
+
+.for-half {
+    width: 190%;
+    padding: 10;
+    padding: 70px 50px 0px 90px;
+
+    .for-half img {
+        width: 50%
+    }
+
+    .rd-sec {
+        display: flex;
+        font-size: 15px;
+
+    }
