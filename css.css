@@ -6,6 +6,20 @@ h1 {
     font-size: 35px;
 }
 
+.center {
+    text-align: center;
+}
+
+.box {
+    box-shadow: 10px 10px 55px blue;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px;
+    border-left: 8px solid rgb(0, 255, 174);
+
+}
+
 .b-color {
     background-color: antiquewhite;
     font-size: 18px;
@@ -31,6 +45,7 @@ p {
 
 section {
     display: flex;
+    margin: 10px;
 
 
 }
@@ -40,12 +55,23 @@ section {
     padding: 10;
     padding: 70px 50px 0px 90px;
 
-    .for-half img {
-        width: 50%
-    }
+}
 
-    .rd-sec {
-        display: flex;
-        font-size: 15px;
 
-    }
+.for-half img {
+    width: 100%
+}
+
+.rd-sec {
+    display: flex;
+    font-size: 15px;
+
+}
+
+footer p {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
